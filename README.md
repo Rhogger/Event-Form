@@ -7,7 +7,7 @@ Event Form - Crie seu Evento
 - [About](#about)
 - [Built in](#built_in)
 - [Go to](#go_to)
-- [TODO List](#todo_list)
+- [Preview](#preview)
 
 <br>
 
@@ -28,34 +28,14 @@ In this project knowledge of forms was applied, to be made form with buttons and
 
 ## Go to <a name = "go_to"></a>
 
-To access the site is simple, just click on the <a href = "https://rhogger.github.io/Buttons-Catalog/">link</a>
-
-<h3 align="center">
-Site
-</h3>
+To access the site is simple, just click on the <a href = "https://event-form-tau.vercel.app">link</a>
 
 <br>
 
-![Is semantic](C%C3%B3digo%20sem%C3%A2ntico/images/semantic.png)
+## Preview <a name = "preview"></a>
 
 <br>
+
+![Is semantic](images/Desafio%20intermediario.png)
 
 <hr>
-
-
-
-
-
-
-
-
-
-## Go to <a name = "go_to"></a>
-
-To access the site is simple, just click on the <a href = "https://rhogger.github.io/Buttons-Catalog/">link</a>
-
-## TODO List <a name = "todo_list"></a>
-
-- [ ] Add responsiveness to the site.
-- [ ] Add more buttons that is my interest. 
-- [ ] Add more sections and make then appear only when I scrolling down.
