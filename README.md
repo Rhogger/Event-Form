@@ -36,7 +36,7 @@ To access the site is simple, just click on the <a href = "https://event-form-ta
 
 <br>
 
-![Preview](images/PC.png)
+![Preview](assets/PC.png)
 
 <hr>
 
